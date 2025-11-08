@@ -1,0 +1,29 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+.env
+
+# Node
+node_modules/
+dist/
+
+# Go
+bin/
+*.exe
+
+# Rust
+/target/
+
+# Java
+/target/
+/*.class
+
+# Docker
+**/pgdata
+**/.env
+
+# IDEs
+.vscode/
+.idea/
+*.swp
